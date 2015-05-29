@@ -1,1 +1,1 @@
-Hola Mundo !
+Adoptame is a web tool to help street dogs in Mexico
