@@ -1,1 +1,1 @@
-Adoptame is a web tool to help street dogs in Mexico
+Adoptame is a web tool to help street dogs in Mexico. It is based on Java, HTML5 and other technologies.
